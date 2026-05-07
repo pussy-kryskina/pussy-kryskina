@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=ff69b4" />
   <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=ff69b4" />
 </p>
+<p align="center">
+  <img src="./quote.svg" alt="soft girl, hard code" />
+</p>
