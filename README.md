@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="./welcome.jpg" alt="Welcome To My Page" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-ffb6c1?style=for-the-badge&logo=android&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/Kotlin-ffb6c1?style=for-the-badge&logo=kotlin&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/Git-ffb6c1?style=for-the-badge&logo=git&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=ff69b4" />
+</p>
