@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="./welcome.jpg" alt="Welcome To My Page" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pussy-kryskina&show_icons=true&bg_color=fff0f5&title_color=ff69b4&icon_color=ff1493&text_color=c71585&border_color=ffb6c1" />
+</p>
