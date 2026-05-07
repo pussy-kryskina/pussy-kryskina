@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="110" viewBox="0 0 520 110">
+  <defs>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#ff69b4"/>
+      <stop offset="35%"  stop-color="#ff69b4"/>
+      <stop offset="50%"  stop-color="#ffffff"/>
+      <stop offset="65%"  stop-color="#ff69b4"/>
+      <stop offset="100%" stop-color="#ff1493"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-520,0; 520,0; -520,0" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- sparkles -->
+  <g transform="translate(22,22)">
+    <path d="M0,-7 1.7,-1.7 7,0 1.7,1.7 0,7 -1.7,1.7 -7,0 -1.7,-1.7Z" fill="#ffb6c1">
+      <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;180" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(60,12)">
+    <path d="M0,-4 1,-1 4,0 1,1 0,4 -1,1 -4,0 -1,-1Z" fill="#ff69b4">
+      <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;180" dur="1.6s" begin="0.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(498,20)">
+    <path d="M0,-7 1.7,-1.7 7,0 1.7,1.7 0,7 -1.7,1.7 -7,0 -1.7,-1.7Z" fill="#ffb6c1">
+      <animate attributeName="opacity" values="0;1;0.3;1;0" dur="2s" begin="0.7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;180" dur="2s" begin="0.7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(460,14)">
+    <path d="M0,-4 1,-1 4,0 1,1 0,4 -1,1 -4,0 -1,-1Z" fill="#ff1493">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;180" dur="1.8s" begin="0.2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(15,85)">
+    <path d="M0,-5 1.2,-1.2 5,0 1.2,1.2 0,5 -1.2,1.2 -5,0 -1.2,-1.2Z" fill="#ff69b4">
+      <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;180" dur="2.2s" begin="1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g transform="translate(505,88)">
+    <path d="M0,-5 1.2,-1.2 5,0 1.2,1.2 0,5 -1.2,1.2 -5,0 -1.2,-1.2Z" fill="#ffb6c1">
+      <animate attributeName="opacity" values="0;1;0.4;1;0" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;180" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <circle cx="90" cy="90" r="3" fill="#ffb6c1">
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="430" cy="90" r="3" fill="#ff69b4">
+    <animate attributeName="opacity" values="0;1;0" dur="1.9s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="10" r="2.5" fill="#ff1493">
+    <animate attributeName="opacity" values="0;1;0" dur="2.1s" begin="0.1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- text shadow -->
+  <text x="262" y="68"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="34"
+    font-style="italic"
+    font-weight="bold"
+    fill="#c71585"
+    opacity="0.25">soft girl, hard code</text>
+
+  <!-- main text with shimmer -->
+  <text x="260" y="66"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="34"
+    font-style="italic"
+    font-weight="bold"
+    fill="url(#shimmer)">soft girl, hard code</text>
+</svg>
