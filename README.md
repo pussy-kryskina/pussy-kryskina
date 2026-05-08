@@ -27,4 +27,10 @@
 <img align="left" src="./s-mirror.svg" width="90"/>
 <img align="right" src="./s-heel.svg" width="90"/>
 
+<div align="center">
+  <br><br>
+  <img src="https://raw.githubusercontent.com/pussy-kryskina/pussy-kryskina/output/snake.svg" alt="snake"/>
+  <br><br>
+</div>
+
 <br clear="both"/>
