@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Git-ffe0f0?style=for-the-badge&logo=git&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/GitHub-ffd6e8?style=for-the-badge&logo=github&logoColor=c71585"/>
   <br><br>
+  <img src="https://komarev.com/ghpvc/?username=pussy-kryskina&color=ff69b4&style=flat-square&label=visitors+👀"/>
+  <br><br>
 </div>
 
 <br clear="both"/>
@@ -25,6 +27,4 @@
 <img align="left" src="./s-mirror.svg" width="90"/>
 <img align="right" src="./s-heel.svg" width="90"/>
 
-<div align="center">
-  <br><br>
-  <img src="https://komarev.com/gh
+<br clear="both"/>
