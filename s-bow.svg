@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <g transform="translate(60,60) rotate(7)">
+    <ellipse cx="0" cy="-38" rx="13" ry="20" fill="white"/>
+    <ellipse cx="0" cy="38" rx="13" ry="20" fill="white"/>
+    <ellipse cx="-38" cy="0" rx="20" ry="13" fill="white"/>
+    <ellipse cx="38" cy="0" rx="20" ry="13" fill="white"/>
+    <circle cx="0" cy="0" r="36" fill="white"/>
+    <circle cx="0" cy="0" r="30" fill="#ffc2d4"/>
+    <path d="M0,-5 Q-26,-26 -30,-10 Q-33,5 0,5 Z" fill="#ff69b4"/>
+    <path d="M0,-5 Q26,-26 30,-10 Q33,5 0,5 Z" fill="#ff69b4"/>
+    <path d="M0,5 Q-18,24 -22,30" stroke="#ff8fab" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M0,5 Q18,24 22,30" stroke="#ff8fab" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="7" fill="#ff1493"/>
+    <circle cx="0" cy="0" r="3.5" fill="white"/>
+    <text x="0" y="54" font-size="11" font-family="Arial" font-weight="bold" fill="#c71585" text-anchor="middle">bow girl 🎀</text>
+  </g>
+</svg>
